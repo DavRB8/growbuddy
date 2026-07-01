@@ -15,3 +15,7 @@ def load_habits():
             return [Habit.from_dict(item) for item in data]
     except FileNotFoundError:
         return []
+    
+def blank():
+    """This is a function that does nothing."""
+    pass

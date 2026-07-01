@@ -22,3 +22,7 @@ class Habit:
         habit.completed_today = data["completed_today"]
         habit.total_completions = data["total_completions"]
         return habit
+    
+def blank():
+    """This is a function that does nothing."""
+    pass

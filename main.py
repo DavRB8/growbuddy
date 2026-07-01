@@ -75,3 +75,8 @@ while True:
         break
     else:
         print("Invalid option, please try again.")
+
+
+def blank():
+    """This is a function that does nothing."""
+    pass
