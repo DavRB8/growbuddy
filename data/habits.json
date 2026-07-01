@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Run",
+        "streak": 1,
+        "completed_today": true,
+        "total_completions": 1
+    },
+    {
+        "name": "Read",
+        "streak": 0,
+        "completed_today": false,
+        "total_completions": 0
+    },
+    {
+        "name": "Cook",
+        "streak": 0,
+        "completed_today": false,
+        "total_completions": 0
+    },
+    {
+        "name": "Make Bed",
+        "streak": 0,
+        "completed_today": false,
+        "total_completions": 0
+    }
+]
